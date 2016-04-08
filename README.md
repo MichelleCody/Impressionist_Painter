@@ -1,4 +1,4 @@
-# README.md
+# Impressionist_Painter
 
 ### Running the Program
 
